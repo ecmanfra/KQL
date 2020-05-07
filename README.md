@@ -1,0 +1,2 @@
+# KQL
+Useful Kusto Queries
